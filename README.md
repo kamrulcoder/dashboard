@@ -111,7 +111,7 @@ Project Structure
 └─ tailwind.config.js
 ```
 #### Author 
-[GITHUB]("https://github.com/kamrulcoder")
+[GITHUB](https://github.com/kamrulcoder)
 
 
 
