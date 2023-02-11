@@ -2,16 +2,21 @@
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
 #  Build and Deploy a React Admin Dashboard
-## [Play To Click 🎯](https://woochanleee.github.io/project-tree-generator)
+## [Demo Live  🎯](https://dashboard-shoppy.netlify.app/)
 
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- User Account. (Login, Sign Up & Reset page 
+- Admin Dashboard Page 
+- Data Tables
+- Calendar
+- Kanban
+- WYSWYG Editor
+- color Picker
+- Theme Fixes
+- Charts
+
 
 ## Tech
 
@@ -23,7 +28,7 @@ Admin Dashboard uses a number of open source projects to work properly:
 - Syncfusion2
 
 
-`Project Structure 
+Project Structure 
 
 ```
 📦 Admin Dashboard 
@@ -105,7 +110,8 @@ Admin Dashboard uses a number of open source projects to work properly:
 │     └─ index.jsx
 └─ tailwind.config.js
 ```
+#### Author 
+[GITHUB]("https://github.com/kamrulcoder")
 
 
 
-`
